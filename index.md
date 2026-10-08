@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: 四十一年错题库
 ---
+人生是个试错的过程，所以错题总结必不可少。
